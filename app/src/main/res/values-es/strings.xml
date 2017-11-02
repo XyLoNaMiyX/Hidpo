@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application info -->
+    <string name="app_name">Hidpo</string>
+    <string name="app_description">Oculta imágenes gratis</string>
+
+    <!-- Drawer menu -->
+    <string name="viewHidden">Ver archivos ocultos</string>
+    <string name="viewHiddenDesc">"Administra los archivos ocultos"</string>
+
+    <string name="settings">Ajustes</string>
+    <string name="settingsDesc">Cambia tus preferencias</string>
+
+    <string name="about">Información</string>
+    <string name="aboutDesc">Conócenos más a fondo</string>
+
+
+    <string name="drawerOpen">Abrir menú</string>
+    <string name="drawerClose">Cerrar menú</string>
+
+    <!-- Settings -->
+    <string name="chooseLock">Elige un color para el candado</string>
+
+    <!-- Confirmations -->
+    <string name="confirmExit">Pulsa atrás de nuevo para salir</string>
+
+    <!-- Errors -->
+    <string name="cantOpenFile">No se pudo abrir el archivo</string>
+
+</resources>

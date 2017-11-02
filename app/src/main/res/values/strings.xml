@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Application info -->
+    <string name="app_name">Hidpo</string>
+    <string name="app_description">Free image hider</string>
+
+    <!-- Drawer menu -->
+    <string name="viewHidden">View hidden files</string>
+    <string name="viewHiddenDesc">"Manage the hidden files"</string>
+
+    <string name="settings">Settings</string>
+    <string name="settingsDesc">Change your preferences</string>
+
+    <string name="about">About</string>
+    <string name="aboutDesc">Get to know about us</string>
+
+
+    <string name="drawerOpen">Open menu</string>
+    <string name="drawerClose">Close menu</string>
+
+    <!-- Settings -->
+    <string name="chooseLock">Choose the lock colour</string>
+
+    <!-- Confirmations -->
+    <string name="confirmExit">Press back again to exit</string>
+
+    <!-- Errors -->
+    <string name="cantOpenFile">Cannot open the file</string>
+
+</resources>
